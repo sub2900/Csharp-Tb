@@ -17,8 +17,10 @@ which is so aids.
 # faq
 Can you get banned from this?
 no you cannot as it does not inject or affect any game files/memory therefor not getting flagged by anticheat
+
 can you use anything other than windows to run the progam?
 i am pretty sure you cant and i do not feel like testing 
+
 Can you customize the features on the TB?
 Yes you can! you are able to chnage the color it detects the smoothness of the color aimbot and the FOV size .
 i will add more customizable features in the feature.
